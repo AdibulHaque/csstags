@@ -1,0 +1,50 @@
+.h1{
+	background-color: pink;
+}
+#h3{
+	border: 10px solid darkblue;
+}
+#male{
+	accent-color: blue;
+
+}
+#female{
+	accent-color: hotpink;
+}
+.checkbox{
+	accent-color: greenyellow;
+}
+#range{
+	accent-color: greenyellow;
+}
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #005848;
+}
+
+.topnav a {
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 19px;
+}
+
+.topnav a:hover {
+  background-color: #5B5B5B;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #71C497;
+  color: white;
+}
+.newspaper{
+	column-count: 4;
+}
